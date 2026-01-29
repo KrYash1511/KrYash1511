@@ -59,7 +59,7 @@
 
 ## 🧑‍💻 About Me
 <ul>
-  <li>🎓 2nd Year B.E. in Computer Science & Engineering (IoT & Cyber Security)</li>
+  <li>🎓 3rd Year B.E. in Computer Science & Engineering (IoT & Cyber Security)</li>
   <li>🌏 Based in Bangalore, India</li>
   <li>👨‍💻 I enjoy building fast, secure, and scalable apps with clean code</li>
   <li>📬 <b>Contact:</b> <a href="mailto:yashraj151104@gmail.com">yashraj151104@gmail.com</a> | <a href="tel:+918825189462">+91-8825189462</a></li>
